@@ -1,0 +1,87 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Signup to Facebook",
+        "description": "",
+        "id": "in-this-feature-we-will-signup-to-facebook-website.;signup-to-facebook",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I navigate to Facebook page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "I enter all required details",
+            "match": {},
+            "rows": [
+              {
+                "cells": [
+                  "Manoj"
+                ]
+              },
+              {
+                "cells": [
+                  "Adhikari"
+                ]
+              },
+              {
+                "cells": [
+                  "manojbi.merim@gmail.com"
+                ]
+              },
+              {
+                "cells": [
+                  "manojbi.merim@gmail.com"
+                ]
+              },
+              {
+                "cells": [
+                  "password"
+                ]
+              },
+              {
+                "cells": [
+                  "Pasupathin"
+                ]
+              },
+              {
+                "cells": [
+                  "Female"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "I Clicked on the signup button",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "In this feature we will signup to facebook website.",
+    "description": "In this feature we will signup to facebook website.",
+    "id": "in-this-feature-we-will-signup-to-facebook-website.",
+    "keyword": "Feature",
+    "uri": "src/main/resources/features/fbsignup.feature",
+    "tags": []
+  }
+]
